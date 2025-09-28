@@ -1,4 +1,3 @@
-script aqui
 -- love_painel❤️ - Rayfield UI - Local Lua (KRNL)
 -- Apenas para testes.
 -- Premium Key: "lovehubpremium" (salva para não pedir mais)
